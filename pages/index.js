@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
+      <section className="text-xl leading-7">
         <p>
           Hello, I&lsquo;m Thibault. I&lsquo;m a software engineer. Curious to
           gain more knowledge about computer science.

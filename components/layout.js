@@ -68,6 +68,9 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
+      <footer className="text-center bg-gray-900 text-white">
+        Made with ❤️ by @melkir
+      </footer>
     </div>
   );
 }
